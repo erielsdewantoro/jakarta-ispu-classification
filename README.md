@@ -4,7 +4,7 @@ Binary classification of Jakarta Air Pollution Standard Index (ISPU) categories,
 two tree-based ensembles against two recurrent neural networks, with SHAP-based model
 interpretation.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/erielsdewantoro/jakarta-ispu-classification/blob/main/notebooks/Klasifikasi_ISPU_Jakarta.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/16I1V57VJUrHgKZYWKc1R-4s1ffeUBavQ?usp=drive_link)
 [![nbviewer](https://img.shields.io/badge/render-nbviewer-orange)](https://nbviewer.org/github/erielsdewantoro/jakarta-ispu-classification/blob/main/notebooks/Klasifikasi_ISPU_Jakarta.ipynb)
 ![Python](https://img.shields.io/badge/python-3.10-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
