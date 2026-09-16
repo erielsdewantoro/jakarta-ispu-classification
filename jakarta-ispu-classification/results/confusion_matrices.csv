@@ -1,0 +1,5 @@
+model,true_negative,false_positive,false_negative,true_positive,total_errors
+Random Forest,275,2,5,84,7
+XGBoost,275,2,5,84,7
+LSTM,225,52,44,45,96
+GRU,238,39,57,32,96

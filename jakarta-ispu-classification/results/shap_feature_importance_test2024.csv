@@ -1,0 +1,18 @@
+rank,feature,display_name,group,mean_absolute_shap
+1,pm25,PM2.5,pollutant,0.323157
+2,pm10,PM10,pollutant,0.083515
+3,o3,O3,pollutant,0.047695
+4,co,CO,pollutant,0.026628
+5,no2,NO2,pollutant,0.023424
+6,so2,SO2,pollutant,0.013650
+7,pm25_was_missing,Indikator Missing PM2.5,missingness,0.008758
+8,bulan,Bulan,temporal,0.007862
+9,tahun,Tahun,temporal,0.007825
+10,pm10_was_missing,Indikator Missing PM10,missingness,0.005726
+11,is_pasca_pandemi,Indikator Pasca-Pandemi,temporal,0.002825
+12,hari_dalam_minggu,Hari dalam Minggu,temporal,0.001205
+13,so2_was_missing,Indikator Missing SO2,missingness,0.001089
+14,is_weekend,Indikator Akhir Pekan,temporal,0.000376
+15,co_was_missing,Indikator Missing CO,missingness,0.000095
+16,o3_was_missing,Indikator Missing O3,missingness,0.000030
+17,no2_was_missing,Indikator Missing NO2,missingness,0.000007

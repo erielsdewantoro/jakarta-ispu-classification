@@ -1,0 +1,32 @@
+# Jakarta ISPU Classification — Python dependencies
+#
+# Lower bounds only. These are the versions the analysis is known to work with; newer
+# releases are generally fine. If you need byte-exact reproduction, freeze your own
+# environment instead:
+#
+#     pip freeze > requirements.lock.txt
+#
+# Google Colab already provides most of these. The notebook installs them automatically
+# when it detects a Colab runtime.
+
+# Core data handling
+numpy>=1.24
+pandas>=2.0
+
+# Machine learning
+scikit-learn>=1.3
+xgboost>=2.0
+
+# Deep learning (LSTM / GRU)
+tensorflow>=2.15
+
+# Model interpretation
+shap>=0.44
+
+# Visualisation
+matplotlib>=3.7
+seaborn>=0.13
+
+# Notebook environment (not needed on Colab)
+jupyter>=1.0
+ipython>=8.0

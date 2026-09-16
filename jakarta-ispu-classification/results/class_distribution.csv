@@ -1,0 +1,4 @@
+subset,period,observations,bukan_tidak_sehat_plus,tidak_sehat_plus,positive_rate
+Full research period,2020-01-01 to 2024-12-31,1826,1210,616,0.3373
+Train,2020-01-01 to 2023-12-31,1460,933,527,0.3610
+Test,2024-01-01 to 2024-12-31,366,277,89,0.2432

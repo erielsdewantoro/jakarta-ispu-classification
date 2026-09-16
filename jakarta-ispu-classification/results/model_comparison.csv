@@ -1,0 +1,5 @@
+model,input_representation,precision,recall,f1_score,roc_auc
+Random Forest,same-day tabular,0.9767,0.9438,0.9600,0.9822
+XGBoost,same-day tabular,0.9767,0.9438,0.9600,0.9705
+LSTM,14-day sequence,0.4639,0.5056,0.4839,0.6902
+GRU,14-day sequence,0.4507,0.3596,0.4000,0.7159

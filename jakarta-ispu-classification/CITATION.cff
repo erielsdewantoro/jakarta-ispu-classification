@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+title: "Jakarta ISPU Classification: Comparing Ensemble and Deep Learning Models with SHAP Interpretation"
+message: "If you refer to this work, please cite it as below."
+type: software
+authors:
+  - given-names: "Eriel Setiawan"
+    family-names: "Dewantoro"
+    affiliation: "Universitas Bina Sarana Informatika"
+repository-code: "https://github.com/erielsdewantoro/jakarta-ispu-classification"
+abstract: >-
+  Binary classification of daily Jakarta Air Pollution Standard Index (ISPU) categories
+  for 2020-2024, comparing Random Forest and XGBoost against LSTM and GRU under a
+  chronological train-test split, with SHAP-based interpretation of the selected ensemble
+  model. The repository documents a structural target-leakage property of the dataset and
+  an asymmetry in input representation between the two model families, both of which
+  constrain how the reported metrics should be read.
+keywords:
+  - air quality
+  - ISPU
+  - Jakarta
+  - binary classification
+  - random forest
+  - xgboost
+  - LSTM
+  - GRU
+  - SHAP
+  - explainable AI
+  - target leakage
+license: MIT
+version: "1.0.0"
+date-released: "2026-09-16"
